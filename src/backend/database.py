@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Weekly tournament for serious chess players with rankings",
+        "schedule": "Sundays, 2:00 PM - 5:00 PM",
+        "schedule_details": {
+            "days": ["Sunday"],
+            "start_time": "14:00",
+            "end_time": "17:00"
+        },
+        "max_participants": 16,
+        "participants": ["william@mergington.edu", "jacob@mergington.edu"]
     }
 }
 
